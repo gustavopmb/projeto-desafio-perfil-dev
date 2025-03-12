@@ -34,11 +34,12 @@ Este projeto faz parte do **Desafio Full Stack** da **Rocketseat** e consiste na
 │   ├── Background_Intro.png  
 │   ├── Background_Contacts.png  
 │   └── [Imagens dos projetos e serviços]  
-├── css/  
+├── styles/  
 │   ├── global.css  
 │   └── index.css  
 ├── index.html  
 ├── README.md  
+│
 
 ---
 
